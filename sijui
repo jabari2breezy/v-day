@@ -116,7 +116,8 @@
     <div class="card" id="valentineCard">
         <div id="content">
             <div class="main-icon">💝</div>
-            <h1>Will you be my Valentine?</h1>
+            <h1>Karen Precious,
+Will you be my Valentine?</h1>
             <div class="btn-container">
                 <button id="yesBtn">Yes!</button>
                 <button id="noBtn">No(dont press me)</button>
